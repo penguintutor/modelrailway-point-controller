@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.1 (9b9bdc1480, 2023-11-25, custom)"
+   sodipodi:docname="updownbuttons.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.72248176"
+     inkscape:cx="397.93392"
+     inkscape:cy="420.77187"
+     inkscape:window-width="1854"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showgrid="false" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch4">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient1"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#0564ff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#464646;stop-opacity:0;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient2"
+       x1="61.501762"
+       y1="146.15514"
+       x2="61.526772"
+       y2="103.52941"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch4"
+       id="linearGradient5"
+       gradientUnits="userSpaceOnUse"
+       x1="91.083235"
+       y1="133.82076"
+       x2="152.18823"
+       y2="133.82076" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1"
+       id="linearGradient6"
+       gradientUnits="userSpaceOnUse"
+       x1="61.501762"
+       y1="146.15514"
+       x2="61.526772"
+       y2="103.52941"
+       gradientTransform="translate(-2.3156803,-66.672814)" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:url(#linearGradient2);stroke:none;stroke-width:0.165"
+       id="rect1"
+       width="120"
+       height="40"
+       x="61.4282"
+       y="113.60945"
+       ry="8.8251133" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.11667px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
+       x="94.076187"
+       y="134.14488"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         style="stroke-width:0.264583"
+         x="94.076187"
+         y="134.14488"
+         rotate="0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3159px;line-height:1.25;font-family:'Noto Sans Bassa Vah';-inkscape-font-specification:'Noto Sans Bassa Vah, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a32ecc;fill-opacity:1;stroke:#ae00e6;stroke-width:2.10137;stroke-dasharray:none;stroke-opacity:1"
+       x="76.541588"
+       y="146.38376"
+       id="text3"
+       transform="scale(1.0145105,0.98569704)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3159px;font-family:'Noto Sans Bassa Vah';-inkscape-font-specification:'Noto Sans Bassa Vah, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a32ecc;fill-opacity:1;stroke:#ae00e6;stroke-width:2.10137;stroke-dasharray:none;stroke-opacity:1"
+         x="76.541588"
+         y="146.38376">Down</tspan></text>
+    <rect
+       style="fill:url(#linearGradient6);stroke:none;stroke-width:0.165"
+       id="rect1-8"
+       width="120"
+       height="40"
+       x="59.112522"
+       y="46.936642"
+       ry="8.8251133" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3159px;line-height:1.25;font-family:'Noto Sans Bassa Vah';-inkscape-font-specification:'Noto Sans Bassa Vah, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a32ecc;fill-opacity:1;stroke:#ae00e6;stroke-width:2.10137;stroke-dasharray:none;stroke-opacity:1"
+       x="96.20401"
+       y="78.743484"
+       id="text3-9"
+       transform="scale(1.0145105,0.98569704)"><tspan
+         sodipodi:role="line"
+         id="tspan3-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30.3159px;font-family:'Noto Sans Bassa Vah';-inkscape-font-specification:'Noto Sans Bassa Vah, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a32ecc;fill-opacity:1;stroke:#ae00e6;stroke-width:2.10137;stroke-dasharray:none;stroke-opacity:1"
+         x="96.20401"
+         y="78.743484">Up</tspan></text>
+  </g>
+</svg>
