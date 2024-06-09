@@ -65,14 +65,14 @@ class Controller:
     def get_pin (self, addr):
         # If no external board then skip any that are not on local
         if self.i2c_control == False and addr[0] != 0:
-            return 0
+            return 1
         return self.controller[addr[0]].readPin(addr[1])
     
     # Depreciated - use get_pin instead
     def get_input (self, addr):
         # If no external board then skip any that are not on local
         if self.i2c_control == False and addr[0] != 0:
-            return 0
+            return 1
         return self.controller[addr[0]].readPin(addr[1])
         
     

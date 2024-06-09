@@ -29,7 +29,7 @@ function ButtonClicked1 (button) {
 
 // handle button 2 (eg. down)
 function ButtonClicked2 (button) {
-    $.get ('/points', 'point='+button+"&position=1", displayResponse);
+    $.get ('/points', 'point='+button+"&position=2", displayResponse);
 }
 
 
