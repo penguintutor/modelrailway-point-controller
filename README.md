@@ -32,6 +32,10 @@ mode="client"   # Use as a Wi-Fi client
 
 For the code to run automatically on start-up save the pico-point-controller.py file on your Pico as main.py.
 
+## Using without the I2C control board
+
+The board can be used in WiFi only mode, which does not use the I2C based switch and LED board. For that use the file pico-point-controller.wifionly.py instead of pico-point-controller.py (or save as main.py for auto-run) 
+
 # More Information
 
 For more details see [www.penguintutor.com/points](https://www.penguintutor.com/points)
