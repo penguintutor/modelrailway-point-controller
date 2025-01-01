@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.7+dfsg-1*%
+%TF.CreationDate,2024-04-04T18:03:27+01:00*%
+%TF.ProjectId,point-controller-switches,706f696e-742d-4636-9f6e-74726f6c6c65,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.7+dfsg-1) date 2024-04-04 18:03:27*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.100000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X106400000Y-83725000D02*
+X146600000Y-83725000D01*
+X146600000Y-151525000D01*
+X106400000Y-151525000D01*
+X106400000Y-83725000D01*
+M02*
