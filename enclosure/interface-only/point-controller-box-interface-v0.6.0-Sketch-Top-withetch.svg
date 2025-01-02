@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="189.72000000000003mm"
+   height="130.65348438712016mm"
+   viewBox="0 0 189.72000000000003 130.65348438712016"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="point-controller-box-interface-v0.6.0-Sketch-Top-withetch.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.65825075"
+     inkscape:cx="229.39586"
+     inkscape:cy="268.1349"
+     inkscape:window-width="1859"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Sketch003"
+     transform="matrix(-1,0,0,1,187.86002,-134.14002)">
+    <path
+       id="Sketch003_w0000"
+       d="m 186,262.93348 v -26.07781 h -2.75858 A 0.213333,0.213333 0 1 1 182.95,236.564 v -9.21691 a 0.213333,0.213333 0 1 1 0.291,-0.29109 l 2.759,-3.3e-4 v -52.15563 h -2.75858 A 0.213333,0.213333 0 1 1 182.95,174.609 v -9.21754 A 0.213333,0.213333 0 1 1 183.241,165.1 l 2.759,4e-5 V 136 h -28.1 v 3.02223 -0.31354 m 0,0.31354 h -9.8 v -0.31354 m 0,0.31354 V 136 H 97.9 v 3.02223 -0.31354 m 0,0.31354 h -9.8 v -0.31354 m 0,0.31354 V 136 H 37.9 v 3.02223 -0.31354 m 0,0.31354 h -9.8 v -0.31354 m 0,0.31354 V 136 H 0 v 29.10004 h 3.05 v 9.8 H 0 v 52.15563 h 3.05 v 9.8 H 0 v 26.07781 h 28.1 v -3.07259 2.75906 m 9.8,0 v -2.75906 h -9.8 m 60,2.75906 v -2.75906 3.07259 H 37.9 v -3.07259 m 60,2.75906 v -2.75906 h -9.8 m 60,2.75906 v -2.75906 3.07259 H 97.9 v -3.07259 m 60,2.75906 v -2.75906 h -9.8 m 37.9,3.06911 -28.1,0.003 v -3.07259"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <title
+       id="title1">b'Sketch-Top'</title>
+  </g>
+  <rect
+     style="fill:none;stroke-width:0.264583;stroke:#ff0000"
+     id="rect1"
+     width="158.16699"
+     height="3.818517"
+     x="14.269195"
+     y="45.018303" />
+  <rect
+     style="fill:none;stroke-width:0.272532;stroke:#ff0000"
+     id="rect1-5"
+     width="167.81378"
+     height="3.818517"
+     x="2.8165491"
+     y="87.201591" />
+  <rect
+     style="fill:none;stroke-width:0.231021;stroke:#ff0000"
+     id="rect1-2"
+     width="120.58475"
+     height="3.818517"
+     x="51.019817"
+     y="-70.991516"
+     transform="scale(1,-1)" />
+  <rect
+     style="fill:none;stroke-width:0.212928;stroke:#ff0000"
+     id="rect2"
+     width="61.237942"
+     height="4.2093716"
+     x="-36.893959"
+     y="83.318581"
+     transform="matrix(0.7211765,-0.69275137,0.6717337,0.74079271,0,0)" />
+  <rect
+     style="fill:none;stroke-width:0.225971;stroke:#ff0000"
+     id="rect3"
+     width="36.264946"
+     height="4.2245498"
+     x="133.3559"
+     y="-8.6567945"
+     transform="matrix(0.8305942,0.55687815,-0.61184365,0.79097873,0,0)" />
+  <g
+     id="g2"
+     transform="rotate(180,72.731859,58.868694)">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.104216;stroke-dasharray:none"
+       id="path4"
+       cx="-116.62225"
+       cy="-28.612621"
+       r="2.947892"
+       transform="scale(-1)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.0903665;stroke-dasharray:none"
+       id="rect4"
+       width="1.909633"
+       height="0.90963346"
+       x="-117.57707"
+       y="-22.533817"
+       transform="scale(-1)" />
+  </g>
+  <g
+     id="g2-20"
+     transform="rotate(180,97.590095,37.682552)">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.104216;stroke-dasharray:none"
+       id="path4-2"
+       cx="-116.62225"
+       cy="-28.612621"
+       r="2.947892"
+       transform="scale(-1)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.0903665;stroke-dasharray:none"
+       id="rect4-3"
+       width="1.909633"
+       height="0.90963346"
+       x="-117.57707"
+       y="-22.533817"
+       transform="scale(-1)" />
+  </g>
+  <g
+     id="g2-22"
+     transform="rotate(180,132.00414,58.873863)">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.104216;stroke-dasharray:none"
+       id="path4-8"
+       cx="-116.62225"
+       cy="-28.612621"
+       r="2.947892"
+       transform="scale(-1)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.0903665;stroke-dasharray:none"
+       id="rect4-9"
+       width="1.909633"
+       height="0.90963346"
+       x="-117.57707"
+       y="-22.533817"
+       transform="scale(-1)" />
+  </g>
+  <g
+     id="g2-2"
+     transform="rotate(180,81.975236,50.356819)">
+    <circle
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.104216;stroke-dasharray:none"
+       id="path4-6"
+       cx="-116.62225"
+       cy="-28.612621"
+       r="2.947892"
+       transform="scale(-1)" />
+    <rect
+       style="fill:none;stroke:#1a1a1a;stroke-width:0.0903665;stroke-dasharray:none"
+       id="rect4-1"
+       width="1.909633"
+       height="0.90963346"
+       x="-117.57707"
+       y="-22.533817"
+       transform="scale(-1)" />
+  </g>
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5"
+     cx="-82.230682"
+     cy="134.35442"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-4"
+     cx="-88.957863"
+     cy="133.8503"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-6"
+     cx="-68.840111"
+     cy="123.82875"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-4-9"
+     cx="-74.998848"
+     cy="123.04041"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-5"
+     cx="-82.460243"
+     cy="37.23592"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-4-0"
+     cx="-89.116371"
+     cy="38.579227"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-0"
+     cx="-64.295341"
+     cy="56.177116"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-0-6"
+     cx="-52.3442"
+     cy="68.938751"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-0-4"
+     cx="-46.807289"
+     cy="65.068138"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <circle
+     style="fill:none;stroke:#1a1a1a;stroke-width:0.0693231;stroke-dasharray:none"
+     id="path5-6-5-4-6"
+     cx="-69.056488"
+     cy="60.125099"
+     r="2.4653385"
+     transform="rotate(-90)" />
+  <text
+     xml:space="preserve"
+     style="font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.156587;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+     x="73.451057"
+     y="40.640762"
+     id="text3"><tspan
+       sodipodi:role="line"
+       id="tspan3"
+       x="73.451057"
+       y="40.640762"
+       style="stroke-width:0.156587;-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-family:'DejaVu Math TeX Gyre';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:8.35134041px;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.156587"
+     x="50.268101"
+     y="25.062817"
+     id="text3-7"><tspan
+       sodipodi:role="line"
+       id="tspan3-67"
+       x="50.268101"
+       y="25.062817"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.156587">Pico Point Controller</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.156587"
+     x="44.816154"
+     y="65.864098"
+     id="text3-2"><tspan
+       sodipodi:role="line"
+       id="tspan3-6"
+       x="44.816154"
+       y="65.864098"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.156587">2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.156587"
+     x="25.324387"
+     y="84.439201"
+     id="text3-0"><tspan
+       sodipodi:role="line"
+       id="tspan3-9"
+       x="25.324387"
+       y="84.439201"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.156587">3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.156587"
+     x="121.15417"
+     y="86.242714"
+     id="text3-0-1"><tspan
+       sodipodi:role="line"
+       id="tspan3-9-1"
+       x="121.15417"
+       y="86.242714"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.35134px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.156587">4</tspan></text>
+</svg>

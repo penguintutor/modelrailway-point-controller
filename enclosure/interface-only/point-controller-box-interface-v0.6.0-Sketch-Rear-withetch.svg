@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="189.72000000000006mm"
+   height="69.72000000000003mm"
+   viewBox="0 0 189.72000000000006 69.72000000000003"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="point-controller-box-interface-v0.6.0-Sketch-Rear-withetch.svg"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3165015"
+     inkscape:cx="358.52599"
+     inkscape:cy="131.78868"
+     inkscape:window-width="1859"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <g
+     id="Sketch005"
+     transform="matrix(-1,0,0,1,187.85999,-407.07353)">
+    <path
+       id="Sketch005_w0000"
+       d="m 28.1,471.88 v 3.05348 L 3,474.93 V 464.28348 H 0 v -10.2 h 3 v -21.3 H 0 v -10.2 h 3 v -10.65 h 24.9 v -3 h 10.2 v 3 h 49.8 v -3 h 10.2 v 3 h 49.8 v -3 h 10.2 v 3 H 183 v 10.65 h 3 v 10.2 h -3 v 21.3 h 3 v 10.2 h -3 v 10.65 h -25.1 v -3.05 h -9.8 v 3.05 H 97.9 v -3.05 h -9.8 v 3.05 H 37.9 v -3.05 h -9.8"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="Sketch005_w0001"
+       d="m 84,439.41385 h 17.2 v 17.8 H 84 v -17.8"
+       stroke="#191919"
+       stroke-width="0.7 px"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.7;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none" />
+    <title
+       id="title1">b'Sketch-Rear'</title>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81618px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.109053"
+     x="63.804562"
+     y="18.732605"
+     id="text3-7"><tspan
+       sodipodi:role="line"
+       id="tspan3-67"
+       x="63.804562"
+       y="18.732605"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.81618px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.109053">Pico Point Controller</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.85233px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;stroke:#ff0000;stroke-width:0.090981"
+     x="91.054802"
+     y="27.798265"
+     id="text3-7-8"><tspan
+       sodipodi:role="line"
+       id="tspan3-67-1"
+       x="91.054802"
+       y="27.798265"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.85233px;font-family:'DejaVu Math TeX Gyre';-inkscape-font-specification:'DejaVu Math TeX Gyre, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.090981">I<tspan
+   style="font-size:3.15402px;baseline-shift:super;stroke-width:0.090981"
+   id="tspan1">2</tspan>C</tspan></text>
+</svg>
